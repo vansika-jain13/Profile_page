@@ -1,0 +1,67 @@
+html {
+  background-image: url("https://images.unsplash.com/photo-1568642157487-c7d833d0204a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=723&q=80");
+  background-size: 900px 900px;
+}
+.foo #pee {
+  color: greenyellow;
+  font-size: 50px;
+  font-family: cursive;
+  text-align: center;
+  background-color: white;
+  border-radius: 25px;
+  padding: 10px;
+  padding-bottom: 30px;
+  margin-left: 500px;
+  margin-right: 500px;
+}
+.fooba p {
+  position: relative;
+  text-align: center;
+  bottom: 0px;
+  width: 100%;
+}
+.inner-card-container {
+  width: 400px;
+  height: 550px;
+  overflow: auto;
+  box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  background-color: white;
+  margin-left: 500px;
+  box-direction: center;
+  border: 4px dashed black;
+}
+.image-container #g {
+  padding-top: 150px;
+  text-align: center;
+}
+.image-container #e {
+  background-color: white;
+  padding-top: 0px;
+}
+.image-container #f {
+  text-align: center;
+  color: palevioletred;
+  padding-top: 0px;
+}
+.image-container {
+  background-image: url("me.jpg");
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+  padding-top: 0px;
+  border-radius: 50%;
+  margin-left: 120px;
+  border: 4px groove black;
+  display: block;
+}
+.inner-card-container {
+  background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 15%, #ffffff 50%);
+  width: 400px;
+  background-position: top;
+}
+.read {
+  border: 2px solid black;
+  background-color: white;
+  text-align: center;
+  display: inline-block;
+}
